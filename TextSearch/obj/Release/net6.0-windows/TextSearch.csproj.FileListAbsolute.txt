@@ -1,0 +1,16 @@
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\bin\Release\net6.0-windows\TextSearch.exe
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\bin\Release\net6.0-windows\TextSearch.deps.json
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\bin\Release\net6.0-windows\TextSearch.runtimeconfig.json
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\bin\Release\net6.0-windows\TextSearch.dll
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\bin\Release\net6.0-windows\TextSearch.pdb
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\TextSearch.Search.resources
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\TextSearch.csproj.GenerateResource.cache
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\TextSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\TextSearch.AssemblyInfoInputs.cache
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\TextSearch.AssemblyInfo.cs
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\TextSearch.csproj.CoreCompileInputs.cache
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\TextSearch.dll
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\refint\TextSearch.dll
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\TextSearch.pdb
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\TextSearch.genruntimeconfig.cache
+D:\BAIRD\Documents\GitHub\FileTextScraping\TextSearch\obj\Release\net6.0-windows\ref\TextSearch.dll

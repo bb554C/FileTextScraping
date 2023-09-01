@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dpKZuiPiZQYL6vd1bJ2nQHyGuRmpjoKJXFTdp9nLuaY4P9sipyI7aFyvHU0s11xE2s3JeR3mL8YPGsgTT0HQ+w==",
+  "success": true,
+  "projectFilePath": "D:\\BAIRD\\Documents\\GitHub\\FileTextScraping\\TextSearch\\TextSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baird\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\baird\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\baird\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\baird\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
